@@ -11,4 +11,6 @@ For the development of this project, the following Processing libraries were use
 ![image](https://github.com/bluetypo/Sonotipo/blob/main/011_sonotipo.jpg)
 ![image](https://github.com/bluetypo/Sonotipo/blob/main/sonotipo.gif)
 
-
+Credits:
+Afonso Alba (code & UI)
+Manuel Guerrero (graphics, UI and typography)
