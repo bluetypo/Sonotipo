@@ -7,5 +7,6 @@ For the development of this project, the following Processing libraries were use
 - Beads  (real-time audio acquisition and analysis)
 - Geomerative (text vectorization)
 - GifAnimation (exporting frames in GIF format)
-![image](https://github.com/bluetypo/Sonotipo/011_sonotipo.jpg)
+
+![image](https://github.com/bluetypo/Sonotipo/blob/main/011_sonotipo.jpg)
 
